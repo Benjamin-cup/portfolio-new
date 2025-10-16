@@ -19,6 +19,8 @@ import healthcare from "./healthcare.png";
 import lastsender from "./lastsender.png";
 import kiki from "./kiki.png";
 import solanapumpfunsniper from "./solanapumpfunsniper.png";
+import pumpfunbundler from "./pumpfunbundler.png";
+import copytradingbot from "./copytradingbot.png";
 
 function App() {
   return (
@@ -239,12 +241,27 @@ function Projects() {
       link: "https://kiki-koala.vercel.app/",
       github: "https://github.com/Benjamin-cup/Kiki-frontend",
     },
+        {
+      title: "Solana Pumpfun bundler",
+      desc: "Solana Pumpfun Meme Coin bundler",
+      img: pumpfunbundler,
+      // link: "https://kiki-koala.vercel.app/",
+      github: "https://github.com/Benjamin-cup/Pumpfun-bundler-3wallets-test",
+    },
     {
       title: "Solana Pumpfun Sniper",
       desc: "Solana Pumpfun Meme Coin Sniper",
       img: solanapumpfunsniper,
       // link: "https://kiki-koala.vercel.app/",
       github: "https://github.com/Benjamin-cup/Solana-Pumpfun-Sniper-Total",
+    },
+
+    {
+      title: "Solana Pumpfun Copy Trading",
+      desc: "Solana Pumpfun Meme Copy Trading",
+      img: copytradingbot,
+      // link: "https://kiki-koala.vercel.app/",
+      github: "https://github.com/Benjamin-cup/pumpfun-copy-trading-sniper-bot",
     },
     {
       title: "BOSTOTO",
