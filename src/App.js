@@ -21,6 +21,8 @@ import kiki from "./kiki.png";
 import solanapumpfunsniper from "./solanapumpfunsniper.png";
 import pumpfunbundler from "./pumpfunbundler.png";
 import copytradingbot from "./copytradingbot.png";
+import raydiumbundler from "./raydiumbundler.png";
+import raydiumvolume from "./raydiumvolume.png";
 
 function App() {
   return (
@@ -262,6 +264,37 @@ function Projects() {
       img: copytradingbot,
       // link: "https://kiki-koala.vercel.app/",
       github: "https://github.com/Benjamin-cup/pumpfun-copy-trading-sniper-bot",
+    },
+
+    {
+      title: "Solana Raydium Bundler bot",
+      desc: "Solana Raydium Meme Copy Trading",
+      img: raydiumbundler,
+      // link: "https://kiki-koala.vercel.app/",
+      github: "https://github.com/Benjamin-cup/Solana-Raydium-Bundler-Total",
+    },
+
+    {
+      title: "Solana Raydium Sniper",
+      desc: "Solana Raydium Meme coin Sniper",
+      img: solanapumpfunsniper,
+      // link: "https://kiki-koala.vercel.app/",
+      github: "https://github.com/Benjamin-cup/Solana-Raydium-Sniper-Total",
+    },
+
+    {
+      title: "Solana Raydium Copy Trading Bot",
+      desc: "Solana Raydium Meme Copy Trading Bot",
+      img: copytradingbot,
+      // link: "https://kiki-koala.vercel.app/",
+      github: "https://github.com/Benjamin-cup/Raydium-copy-trading-sniper-bot-pri",
+    },
+    {
+      title: "Solana Raydium Volume bot",
+      desc: "Solana Raydium Volume bot",
+      img: raydiumvolume,
+      // link: "https://kiki-koala.vercel.app/",
+      github: "https://github.com/Benjamin-cup/Raydium-Volume-Bot-2.0-Solana",
     },
     {
       title: "BOSTOTO",
