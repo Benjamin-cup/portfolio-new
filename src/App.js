@@ -310,13 +310,13 @@ function Projects() {
       link: "https://ape.store/",
       // github: "https://github.com/vasudevsoni/multi-search",
     },
-    {
-      title: "Solana Trading Bots",
-      desc: "Snipers, Volume bots, Bundlers, Copy trading bots and so on",
-      img: solanatradingbot,
-      // link: "https://vasudevsoni.github.io/pizza-menu/",
-      github: "https://github.com/Benjamin-cup/Solana-Trading-Bots",
-    },
+    // {
+    //   title: "Solana Trading Bots",
+    //   desc: "Snipers, Volume bots, Bundlers, Copy trading bots and so on",
+    //   img: solanatradingbot,
+    //   // link: "https://vasudevsoni.github.io/pizza-menu/",
+    //   github: "https://github.com/Benjamin-cup/Solana-Trading-Bots",
+    // },
     {
       title: "Agents.Land (Pumpfun Forking)",
       desc: "Pump.fun forking",
