@@ -17,7 +17,7 @@ import traider from "./traider.png";
 import crocrash from "./crocrash.png";
 import healthcare from "./healthcare.png";
 import lastsender from "./lastsender.png";
-
+import kiki from "./kiki.png";
 
 function App() {
   return (
@@ -231,6 +231,13 @@ function Skills() {
 
 function Projects() {
   const projects = [
+     {
+      title: "Kiki Koalas",
+      desc: "Kiki Koala Website",
+      img: kiki,
+      link: "https://kiki-koala.vercel.app/",
+      github: "https://github.com/Benjamin-cup/Kiki-frontend",
+    },
     {
       title: "BOSTOTO",
       desc: "SOLANA NFT CONBINATOR",
