@@ -18,6 +18,7 @@ import crocrash from "./crocrash.png";
 import healthcare from "./healthcare.png";
 import lastsender from "./lastsender.png";
 import kiki from "./kiki.png";
+import solanapumpfunsniper from "./solanapumpfunsniper.png";
 
 function App() {
   return (
@@ -237,6 +238,13 @@ function Projects() {
       img: kiki,
       link: "https://kiki-koala.vercel.app/",
       github: "https://github.com/Benjamin-cup/Kiki-frontend",
+    },
+    {
+      title: "Solana Pumpfun Sniper",
+      desc: "Solana Pumpfun Meme Coin Sniper",
+      img: solanapumpfunsniper,
+      // link: "https://kiki-koala.vercel.app/",
+      github: "https://github.com/Benjamin-cup/Solana-Pumpfun-Sniper-Total",
     },
     {
       title: "BOSTOTO",
